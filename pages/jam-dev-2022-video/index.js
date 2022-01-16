@@ -4,7 +4,8 @@ export default function Page() {
       <ul>
         <li className="pb-6">monocrack.alanwsmith.com</li>
         <li className="pb-6">ideas.alanwsmith.com</li>
-        <li className="pb-16">@TheIdOfAlan</li>
+        <li className="pb-6">alanwsmith.com</li>
+        <li className="pb-28">@TheIdOfAlan</li>
       </ul>
     </div>
   )
